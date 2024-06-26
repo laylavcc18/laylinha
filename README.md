@@ -1,12 +1,12 @@
-Boas vindas ao meu perfil 🧡🧡
+Boas vindas ao meu perfil 🌻🧡🌻
 
-Meu nome é layla cardoso
+Meu nome é Layla Cardoso.
 
-Estou estudando na Alura
+Estou estudando na Alura.
 
-Estou me desenvolvendo na linguagem JavaScript
+Estou me desenvolvendo na linguagem JavaScript.
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
 Você pode entrar em contato comigo 📫
 00001207614300SP@al.educacao.sp.gov.br
